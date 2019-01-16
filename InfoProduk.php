@@ -2,3 +2,16 @@
 interface InfoProduk {
 	 public function getInfoProduk();
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
