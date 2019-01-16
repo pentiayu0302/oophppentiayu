@@ -1,4 +1,3 @@
-
 <?php 
 class CetakInfoProduk {
 	public $daftarProduk = array();
